@@ -197,3 +197,24 @@ Won't be deleted from your file system, but keeps the local changes still.
 Help
 git help
 git help <command>
+
+
+Old Apps
+Tableau Desktop and Public
+Robo 3T
+Postman
+PostgreSQL
+DB Browser for SQLite
+R
+pgAdmin 4
+Python Launcher
+
+
+
+
+
+
+
+
+
+
